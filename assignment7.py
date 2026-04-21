@@ -28,7 +28,7 @@ class manager(employee):
         print("salary: ",self._salary)
         print("department: ",self._department)
 
-x=manager("shivanee",20,1202,500000,"IT")
+x=manager("Palak",20,1202,500000,"IT")
 x._get_manager_info()
         
 
